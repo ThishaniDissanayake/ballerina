@@ -81,7 +81,7 @@ const Ecommerce = () => {
                 <span>
                   <GoPrimitiveDot />
                 </span>
-                <span>Budget</span>
+                <span>Bud</span>
               </p>
             </div>
           </div>
